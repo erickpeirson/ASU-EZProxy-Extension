@@ -34,8 +34,6 @@ Support
 
 Questions, comments, concerns: talk to [Erick](https://cbs.asu.edu/gradinfo/?page_id=49).
 
-![GNU GPL 3](http://www.gnu.org/graphics/gplv3-127x51.png "GNU GPL 3")
-
 License
 -------
 
@@ -46,3 +44,5 @@ version.
 ASU EZProxy Extension is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
 implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 [GNU General Public License](http://www.gnu.org/licenses/) for more details.
+
+![GNU GPL 3](http://www.gnu.org/graphics/gplv3-127x51.png "GNU GPL 3")
