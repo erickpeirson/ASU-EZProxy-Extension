@@ -1,4 +1,4 @@
-ASU-EZProxy-Extension
+ASU EZProxy Extension
 =====================
 
 This is a browser extensions that reloads pages through the ASU library proxy. So far I've covered Chrome and Firefox.
