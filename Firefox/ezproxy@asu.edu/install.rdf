@@ -8,7 +8,7 @@
 		<em:version>0.1</em:version>
 		<em:description>Reloads page via the ASU library EZProxy</em:description>
 		<em:creator>Erick Peirson</em:creator>
-		<em:homepageURL>http://devo-evo.lab.asu.edu</em:homepageURL>
+		<em:homepageURL>https://github.com/erickpeirson/ASU-EZProxy-Extension</em:homepageURL>
 		<em:unpack>true</em:unpack>
 		<em:type>2</em:type> <!-- type=extension -->
 
