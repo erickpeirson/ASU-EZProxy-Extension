@@ -6,7 +6,7 @@ This is a browser extensions that reloads pages through the ASU library proxy. S
 Installation: Firefox
 ---------------------
 
-1. Download the .xpi file from the [most recent release](https://github.com/erickpeirson/ASU-EZProxy-Extension/releases)
+1. Download the .xpi file from the (most recent release)[https://github.com/erickpeirson/ASU-EZProxy-Extension/releases] 
 for Firefox.
 2. Follow (these installation instructions)[http://www.accessfirefox.org/Install_Addon_Manually.php] for installing an
 extension from a file.
@@ -31,4 +31,4 @@ icon in your toolbar.
 Support
 -------
 
-Questions, comments, concerns: talk to [Erick](https://cbs.asu.edu/gradinfo/?page_id=49).
+Questions, comments, concerns: talk to (Erick)[https://cbs.asu.edu/gradinfo/?page_id=49].
