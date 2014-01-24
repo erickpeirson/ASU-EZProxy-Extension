@@ -1,7 +1,8 @@
 ASU EZProxy Extension
 =====================
 
-This is a browser extensions that reloads pages through the ASU library proxy. So far I've covered Chrome and Firefox.
+This extension adds a button to your toolbar that, when clicked, reloads the current page through the ASU library's proxy.
+The extension is available for both Firefox and Chrome.
 
 Installation: Firefox
 ---------------------
@@ -13,6 +14,9 @@ extension from a file.
 3. Add the EZProxy button to your toolbar by going to View > Toolsbars > Customize, and dragging the 
 ![ASU icon](https://raw.github.com/erickpeirson/ASU-EZProxy-Extension/master/Firefox/ezproxy@asu.edu/chrome/skin/icon.png)
 icon into your toolbar.
+
+Note: in newer versions of Firefox, your browser will remember which sites you prefer to access via proxy. Thus it may 
+only be necessary to click the button once for each domain.
 
 Installation: Chrome
 --------------------
