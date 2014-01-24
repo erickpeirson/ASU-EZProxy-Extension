@@ -1,0 +1,9 @@
+/*  skin/toolbar-button.css  */
+
+#ezproxy-button {
+  list-style-image: url("chrome://ezproxy/skin/icon.png");
+}
+
+toolbar[iconsize="small"] #ezproxy-button {
+  list-style-image: url("chrome://ezproxy/skin/icon_sm.png");
+}

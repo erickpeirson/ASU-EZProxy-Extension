@@ -1,0 +1,18 @@
+<html>
+  <head>
+  <script>
+
+
+chrome.browserAction.onClicked.addListener(function(tab) {
+      chrome.tabs.getSelected(null, function(tab) {
+	url = tab.url.split('/'); 
+	url[2] = url[2] + '.ezproxy1.lib.asu.edu'; 
+	new_url = url.join('/'); 
+	chrome.tabs.update(null, {url: new_url});
+      });
+	
+});
+
+  </script>
+  </head>
+</html>

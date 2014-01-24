@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://ezproxy/skin/ezproxy-button.css" type="text/css"?>
+<overlay id="ezproxy"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script src="overlay.js"/> 
+
+	<toolbarpalette id="BrowserToolbarPalette">
+		<toolbarbutton id="ezproxy-button" class="toolbarbutton-1"
+			label="ASDF" tooltiptext="fdsa"
+			oncommand="do_ezproxy();"/>
+	</toolbarpalette>
+</overlay>

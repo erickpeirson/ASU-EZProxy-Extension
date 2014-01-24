@@ -1,0 +1,7 @@
+content	ezproxy	chrome/content/
+skin	ezproxy	classic/1.0	chrome/skin/
+
+style	chrome://global/content/customizeToolbar.xul	chrome://ezproxy/skin/ezproxy-button.css
+overlay	chrome://browser/content/browser.xul	chrome://ezproxy/content/overlay.xul
+
+ia
