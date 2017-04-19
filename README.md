@@ -1,3 +1,5 @@
+**Update: April 19, 2017** -- I simply don't have time to keep this up to date. But Ted Pavlic has a really nice (and elegant) solution using a bookmarklet: http://phaseportrait.blogspot.com/2012/07/bookmarklets-for-asu-library-proxy.html *-Erick*
+
 ASU EZProxy Extension
 =====================
 
